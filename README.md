@@ -2,6 +2,8 @@
 
 It is just a clone of "i am rich" ios app.
 
+<img src="/images/screenshot1.png" >
+
 <h2> What's so special about this app </h2>
 I Am Rich is an iOS application developed by Armin Heinrich and which was distributed using the App Store.
 When launched, the screen only contains a glowing red gem and an icon that, when pressed, displays the following mantra in large text:
