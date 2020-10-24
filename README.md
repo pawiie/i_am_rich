@@ -1,16 +1,18 @@
-# i_am_rich
+<h1>i_am_rich</h1>
 
-A new Flutter application.
+It is just a clone of "i am rich" ios app.
 
-## Getting Started
+<h2> What's so special about this app </h2>
+I Am Rich is an iOS application developed by Armin Heinrich and which was distributed using the App Store.
+When launched, the screen only contains a glowing red gem and an icon that, when pressed, displays the following mantra in large text:
 
-This project is a starting point for a Flutter application.
+I am rich
+I deserve it
+I am good,
+healthy & successful
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is described as "a work of art with no hidden function at all",
+with its only purpose being to show other people that they were able to afford it.
+I Am Rich was sold on the App Store for US$999.99 (equivalent to $1,187 in 2019), €799.99, and GB£599.99 (equivalent to £806.54 in 2019),
+the highest price Apple allowed for App Store content.
+The application was removed from the App Store without explanation by Apple Inc. the day after its release, August 6, 2008.
