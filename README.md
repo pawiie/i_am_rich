@@ -6,10 +6,10 @@ It is just a clone of "i am rich" ios app.
 I Am Rich is an iOS application developed by Armin Heinrich and which was distributed using the App Store.
 When launched, the screen only contains a glowing red gem and an icon that, when pressed, displays the following mantra in large text:
 
-I am rich
-I deserv it         (yup there was a spelling mistake in original app)
-I am good,
-healthy & successful
+<p>I am rich</p>
+<p>I deserv it         (yup there was a spelling mistake in original app)</p>
+<p>I am good,</p>
+<p>healthy & successful</p>
 
 The application is described as "a work of art with no hidden function at all",
 with its only purpose being to show other people that they were able to afford it.
