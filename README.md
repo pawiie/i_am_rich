@@ -2,7 +2,7 @@
 
 It is just a clone of "i am rich" ios app.
 
-<img src="/images/screenshot1.png" height="583px">
+<img src="/images/screenshot1.png" height="583px" width="480px">
 
 <h2> What's so special about this app </h2>
 I Am Rich is an iOS application developed by Armin Heinrich and which was distributed using the App Store.
